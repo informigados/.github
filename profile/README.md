@@ -6,6 +6,8 @@ We’re a Brazilian web development and technical support team. We build and mai
 
 ## 📂 Projects
 
+[![Recent activity](assets/recent-activity.svg)](https://github.com/orgs/informigados/repositories?type=all)
+
 - **Web and WordPress** — [LitFastHTML](https://github.com/informigados/LitFastHTML) · [IRIS](https://github.com/informigados/iris-template) · [NEXUS](https://github.com/informigados/nexus-template) · [Rapid Touch](https://github.com/informigados/Rapid-Touch) · [Htaccess WordPress](https://github.com/informigados/htaccess-wordpress)
 - **Developer tools** — [Analyze Claude Tokens](https://github.com/informigados/analyze-claude-tokens) · [Analyze Codex Tokens](https://github.com/informigados/analyze-codex-tokens) · [Multi Account AI Control](https://github.com/informigados/multi-account-ai-control) · [Tailwind CSS Forge](https://github.com/informigados/tailwind-css-forge)
 - **Desktop and local utilities** — [Nucelvo](https://github.com/informigados/nucelvo) · [Pixel Forge](https://github.com/informigados/pixel-forge) · [RevivaX](https://github.com/informigados/revivax) · [SYSNAP](https://github.com/informigados/sysnap) · [X Archive Explorer](https://github.com/informigados/x-archive-explorer)
