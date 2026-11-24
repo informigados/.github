@@ -1,8 +1,8 @@
 # 🐜 INformigados
 
-We are a Brazilian technology company specializing in web development, WordPress, automation, and technical support. We build and maintain websites, integrations, and tools with a focus on performance and maintainability.
+We’re a Brazilian web development and technical support team. We build and maintain websites and WordPress sites, improve performance, and automate recurring work. We also share open-source tools for developers and technical teams.
 
-[Website](https://informigados.com.br/) · [Agency site on GitHub Pages](https://informigados.github.io/)
+[Email us about a project](mailto:info@informigados.com.br) · [Agency site](https://informigados.github.io/) · [Sponsor our open-source work](https://github.com/sponsors/informigados) · [INformigados portal](https://informigados.com.br/)
 
 ## 📂 Projects
 
@@ -10,6 +10,8 @@ We are a Brazilian technology company specializing in web development, WordPress
 - **Developer tools** — [Analyze Claude Tokens](https://github.com/informigados/analyze-claude-tokens) · [Analyze Codex Tokens](https://github.com/informigados/analyze-codex-tokens) · [Multi Account AI Control](https://github.com/informigados/multi-account-ai-control) · [Tailwind CSS Forge](https://github.com/informigados/tailwind-css-forge)
 - **Desktop and local utilities** — [Nucelvo](https://github.com/informigados/nucelvo) · [Pixel Forge](https://github.com/informigados/pixel-forge) · [RevivaX](https://github.com/informigados/revivax) · [SYSNAP](https://github.com/informigados/sysnap) · [X Archive Explorer](https://github.com/informigados/x-archive-explorer)
 - **Finance** — [Finora](https://github.com/informigados/finora) · [INFinance](https://github.com/informigados/infinance)
+
+**Live demos** · [IRIS](https://informigados.github.io/iris-template/) · [NEXUS](https://informigados.github.io/nexus-template/) · [LitFastHTML](https://informigados.github.io/LitFastHTML/)
 
 ## 🛠️ Technologies
 
