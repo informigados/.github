@@ -11,8 +11,6 @@ We’re a Brazilian web development and technical support team. We build and mai
 - **Desktop and local utilities** — [Nucelvo](https://github.com/informigados/nucelvo) · [Pixel Forge](https://github.com/informigados/pixel-forge) · [RevivaX](https://github.com/informigados/revivax) · [SYSNAP](https://github.com/informigados/sysnap) · [X Archive Explorer](https://github.com/informigados/x-archive-explorer)
 - **Finance** — [Finora](https://github.com/informigados/finora) · [INFinance](https://github.com/informigados/infinance)
 
-**Live demos** · [IRIS](https://informigados.github.io/iris-template/) · [NEXUS](https://informigados.github.io/nexus-template/) · [LitFastHTML](https://informigados.github.io/LitFastHTML/)
-
 ## 🛠️ Technologies
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
