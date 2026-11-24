@@ -1,17 +1,15 @@
-# 👋 Welcome!
+# 🐜 INformigados
 
-We are a Brazilian technology company focused on building reliable, high-performance digital solutions.
+We are a Brazilian technology company specializing in web development, WordPress, automation, and technical support. We build and maintain websites, integrations, and tools with a focus on performance and maintainability.
 
-Our work combines clarity, solid engineering, and long-term thinking — from websites and systems to technical support and open-source projects.
+[Website](https://informigados.com.br/) · [Agency site on GitHub Pages](https://informigados.github.io/)
 
-We believe in simple solutions, clean code, and technology that actually solves problems.
+## 📂 Projects
 
-## 🧭 What we do
-
-- Web development (HTML, WordPress, custom solutions)
-- Systems and integrations
-- Performance, optimization, and technical support
-- Open-source and collaborative projects 
+- **Web and WordPress** — [LitFastHTML](https://github.com/informigados/LitFastHTML) · [IRIS](https://github.com/informigados/iris-template) · [NEXUS](https://github.com/informigados/nexus-template) · [Rapid Touch](https://github.com/informigados/Rapid-Touch) · [WP Web Speed Boost](https://github.com/informigados/htaccess-wordpress)
+- **Developer tools** — [Analyze Claude Tokens](https://github.com/informigados/analyze-claude-tokens) · [Analyze Codex Tokens](https://github.com/informigados/analyze-codex-tokens) · [Multi Account AI Control](https://github.com/informigados/multi-account-ai-control) · [Tailwind CSS Forge](https://github.com/informigados/tailwind-css-forge)
+- **Desktop and local utilities** — [Nucelvo](https://github.com/informigados/nucelvo) · [Pixel Forge](https://github.com/informigados/pixel-forge) · [RevivaX](https://github.com/informigados/revivax) · [SYSNAP](https://github.com/informigados/sysnap) · [X Archive Explorer](https://github.com/informigados/x-archive-explorer)
+- **Finance** — [Finora](https://github.com/informigados/finora) · [INFinance](https://github.com/informigados/infinance)
 
 ## 🛠️ Technologies
 
@@ -30,3 +28,8 @@ We believe in simple solutions, clean code, and technology that actually solves 
 ![PageSpeed Insights](https://img.shields.io/badge/PageSpeed-4285F4?style=flat&logo=google&logoColor=white)
 ![GTmetrix](https://img.shields.io/badge/GTmetrix-1E8CBE?style=flat)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-2EA44F?style=flat)
+
+## 👥 Authors
+
+- [Alex Brito](https://github.com/alexbritodev)
+- [INformigados](https://github.com/informigados)
